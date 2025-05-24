@@ -27,8 +27,9 @@ Sinta-se à vontade para explorar, dar sugestões e, quem sabe, encontrar algo i
 
 ## Conecte-se comigo
 
-[Meu LinkedIn](https://www.linkedin.com/in/devdiego/)
-[Outros projetos ](github.com/DevSousaC)
-[devdiegosousa@gmail.com]
+[![Meu linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/devdiego/)
+[![Outros projetos](https://img.shields.io/badge/Outros_projetos-100000?style=flat&logo=github&logoColor=white)](https://github.com/DevSousaC)
+
+devdiegosousa@gmail.com
 
 Obrigado pela visita!
